@@ -1,0 +1,15 @@
+Joseph Dillard, Justin Eccles, Zane Saul
+C.S.1428.751
+Lab Section: L52, L51, L52
+08/02/17
+
+
+The sides of the triangle (in inches) are 10.2, 6.5, and 8.1.
+The perimeter of the triangle is 24.8 inches.
+The area of the triangle is -0.0 inches squared.
+
+The triangle is an equilateral triangle.
+The sides of the triangle (in inches) are 10.0, 10.0, and 10.0.
+The perimeter of the triangle is 30.0 inches.
+The area of the triangle is 43.3 inches squared.
+

@@ -1,0 +1,15 @@
+Joseph Dillard, Justin Eccles, Zane Saul
+C.S.1428.751
+Lab Section: L52, L51, L52
+08/07/17
+
+
+        Temperature Conversion Table
+
+Fahrenheit  Celsius     Rankine      Kelvin
+-------------------------------------------
+    212      100.00      671.67      944.82
+     32        0.00      491.67      764.82
+    122       50.00      581.67      854.82
+     89       31.67      548.67      821.82
+      0      -17.78      459.67      732.82
